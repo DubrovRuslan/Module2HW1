@@ -1,15 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Module2HW1
+﻿public enum LogType
 {
-    public enum LogType
-    {
-        Error,
-        Info,
-        Warning
-    }
+    Error,
+    Info,
+    Warning
 }
