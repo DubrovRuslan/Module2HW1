@@ -1,1 +1,2 @@
-﻿using System;
+﻿Starter starter = new Starter();
+starter.Run();
